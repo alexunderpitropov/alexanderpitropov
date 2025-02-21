@@ -2,6 +2,8 @@
 
 Доброго времени суток,рад что вы это читаете!
 
+все хватит читать!
+
 # Фотография
 
 Вот моя фотография!
@@ -17,9 +19,7 @@
 **Вот чем я люблю заниматься:**
 
 - Люблю играть в игры на PS/PC,а так же изучать что-то новое в IT-сфере.
-
 - Люблю смотреть сериалы(одни из моих любимых-"Клан Сопрано" и "Во все тяжкие").
-
 - Из музыки предпочитаю West Side(Eazy-E,2Pac,Dr.Dre,Ice Cube.)
 
 # Языки программирование
@@ -27,9 +27,7 @@
 **На данный момент я уже изучил:**
 
 - С++
-
 - Java
-
 - JS
 
 **Изучаю сейчас:**
@@ -44,7 +42,5 @@
 
 100% способ со мной связать это написать мне на на почту:
 
-[alexanderpitropov@gmail.com](mailto:alexanderpitropov@gmail.com)
-
-[pitropov2004@gmail.com](mailto:pitropov2004@gmail.com)
- 
+1. [alexanderpitropov@gmail.com](mailto:alexanderpitropov@gmail.com)
+2. [pitropov2004@gmail.com](mailto:pitropov2004@gmail.com)
